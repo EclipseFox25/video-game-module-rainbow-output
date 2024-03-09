@@ -11,7 +11,7 @@ Requirements:
 
 ## Getting Source Code
 
-	git clone --recursive https://github.com/flipperdevices/video-game-module.git
+	git clone --recursive https://github.com/EclipseFox25/video-game-module-rainbow-output.git
 
 Make sure that all git sub-modules was recursively cloned.
 
